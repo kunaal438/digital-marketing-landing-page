@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+    /* color variables */
+    --accent-color: #f0f9ff;
+    --lighter-accent-color: #F2F9FF;
+    --primary-text-color: #000;
+    --secondary-text-color: #fff;
+    --primary-color: #6EAEE4;
+    --overlay-color: rgba(0, 0, 0, 0.2);
+    --hero-img-gradients: linear-gradient(213.55deg, #8ACEFF 11.56%, rgba(110, 174, 228, 0) 63.58%);
+    --background-diagonal-gradients: linear-gradient(238.86deg, #6EAEE4 14.38%, rgba(110, 174, 228, 0) 75.41%);
+    --background-gradients: linear-gradient(180deg, #6EAEE4 14.38%, rgba(110, 174, 228, 0) 75.41%);
+    --white-color: #fff;
+
+}
+
+html{
+    font-size: 16px;
+}
